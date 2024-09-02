@@ -6,6 +6,12 @@ This repository contains data related to the IEEE 118-bus Cyber-Physical Power S
 
 The IEEE 118-bus CPPS is a widely-used benchmark system in smart grid research that integrates physical components (generators, transformers, loads, transmission lines) with cyber components (protective relays, voltage regulators, controllers). This interaction is crucial for system stability and reliable power delivery. 
 
+The data provided in this repository supports the research findings detailed in the following paper:
+
+Hassani, H., Hallaji, E., Razavi-Far, R. et al. Learning from high-dimensional cyber-physical data streams: a case of large-scale smart grid. Int. J. Mach. Learn. & Cyber. (2024). https://doi.org/10.1007/s13042-024-02365-3
+
+Please cite this paper if you use the data in your research.
+
 ## Fault Scenarios
 
 The data collection involves simulating various fault scenarios in the IEEE 118-bus CPPS using PowerFactory. Faults are categorized into:
